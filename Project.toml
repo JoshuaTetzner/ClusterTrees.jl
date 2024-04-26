@@ -5,7 +5,9 @@ version = "0.2.1"
 [deps]
 DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+ParallelKMeans = "42b8e9d4-006b-409a-8472-7f34b3fb58af"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 
 [compat]
 StaticArrays = "^0.10, ^0.11, ^0.12, ^1.0"
